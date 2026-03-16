@@ -1,1 +1,5 @@
-System.out.println("Heyyyy");
+public class proj1{
+public static void main(string[] args){
+System.out.println("Job 1 is executed");
+}
+}
